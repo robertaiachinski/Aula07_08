@@ -18,6 +18,9 @@ export class TagListas {
   nomeVariavelBooleanFalse: boolean = false;
   nomeVariavelBooleanTrue: boolean = true;
 
+/** Minha variavel array de string (precisa das [] para funcionar direito*/
+nomeArrayString:string [] = ['app-tag-listas','./tag-listas.css',];
+
   /***este é o construtor */
 
   constructor() {
